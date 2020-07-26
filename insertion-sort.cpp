@@ -1,6 +1,6 @@
 //============================================================================
 // Name        : insertion-sort.cpp
-// Author      : Dhiraj Vasudeva Shetty
+// Author      : dvs
 // Version     :
 // Copyright   : Your copyright notice
 // Description : Hello World in C++, Ansi-style
